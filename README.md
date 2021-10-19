@@ -11,3 +11,11 @@ My ideas for my final project are...
   + Customize the experiment paradigm with various features like frequency and order control of test trials, stimulus display options and participant response modes.
   + Construct structred record files packaged in classes, with built-in individual-level and population-level analysis methods
   + Experiment record files can be uploaded to an online storage for experimenter to collect
+
+My plan for final projects:
+1. 
++ By week 4: Search for available tools on regression and decision tree model building, and sources of word attributes data.
++ By week 5: completed consistency analysis based on experiment data
++ By week 6: extract word attribute data and organize them for subsequent usage
++ By week 7: complete the logistic regression model
++ By week 8: complete the decision tree model
