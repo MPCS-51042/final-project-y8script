@@ -1,3 +1,9 @@
+Link for external data:
+https://drive.google.com/drive/folders/1F9tCNDrW7MGhZPqKz7qHvIp8MlCvdpP6?usp=sharing
+Put all the data files under the same directory with the .py files.
+
+
+
 # Proposals
 My ideas for my final project are...
 
